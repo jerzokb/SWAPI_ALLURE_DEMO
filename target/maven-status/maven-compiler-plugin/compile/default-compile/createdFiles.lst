@@ -1,0 +1,6 @@
+SWAPI\model\Films.class
+SWAPI\model\Planets.class
+SWAPI\model\Species.class
+SWAPI\model\Starships.class
+SWAPI\model\Vehicles.class
+SWAPI\model\People.class

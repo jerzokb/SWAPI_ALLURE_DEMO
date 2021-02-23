@@ -1,0 +1,7 @@
+base\BaseTest.class
+SWAPI\VehiclesTest.class
+SWAPI\StarshipsTest.class
+SWAPI\FilmsTest.class
+SWAPI\PlanetsTest.class
+SWAPI\SpeciesTest.class
+SWAPI\PeopleTest.class
